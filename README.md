@@ -78,8 +78,21 @@ projet/
 
 ## Lancer le projet
 
-### 1. Installer les dépendances
+### Installer les dépendances
 ```bash
 pip install numpy matplotlib
 
 python main.py
+
+---
+
+## Accès à l'application
+
+Une interface de connexion est mise en place pour accéder à la simulation.
+
+### Identifiants par défaut :
+
+- **Nom d'utilisateur** : `admin`
+- **Mot de passe** : `1234`
+
+Ces identifiants permettent d’accéder à l’interface principale de simulation.
