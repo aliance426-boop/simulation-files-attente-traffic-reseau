@@ -64,6 +64,7 @@ Le projet repose sur :
 ## 📂 Structure du projet
 projet/
 └── README.md # A lire absolument
+│── Rapport_de_Proba_Stats.pdf
 │── 📂 __pycache__
 ├── dashboard.py
 ├── logic.py # Logique de simulation
@@ -71,7 +72,6 @@ projet/
 ├── main.py # Lancement de l'application
 │── network.png #cimage de l'interface d'accueil
 ├── simulation.py # Modèles M/M/1 et M/G/1
-│── Rapport_de_Proba_Stats.pdf
 ├── ui.py # Interface graphique
 
 
