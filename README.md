@@ -63,6 +63,7 @@ Le projet repose sur :
 
 ## 📂 Structure du projet
 projet/
+└── README.md # A lire absolument
 │── 📂 __pycache__
 ├── dashboard.py
 ├── logic.py # Logique de simulation
@@ -72,7 +73,7 @@ projet/
 ├── simulation.py # Modèles M/M/1 et M/G/1
 │── Rapport_de_Proba_Stats.pdf
 ├── ui.py # Interface graphique
-└── README.md
+
 
 
 ## Lancer le projet
